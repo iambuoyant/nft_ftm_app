@@ -48,6 +48,7 @@ info  - Loaded env from /home/eforte/projects/blockchain/demo/nft_ftm_app/.env.p
 
 13. When the app loads click on connect to wallet - this will connect your metamask account to the app to be used for minting ntfs
 
+14. Once the nft is mined you can view the transaction by using the PUBLIC_KEY on https://testnet.ftmscan.com/
 
 # Project Dependencies 
 Node Ver.12.22.1
